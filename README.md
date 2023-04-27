@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnishMathewOommen](https://github.com/AnishMathewOommen)
 
-- 💬 Ask me about **Web Development,Robotics,Python and Java Programming**
+- 💬 Ask me about **Android Development,Robotics,Python and Java Programming**
 
 - 📫 How to reach me **mathewanish2002@gmail.com**
 
