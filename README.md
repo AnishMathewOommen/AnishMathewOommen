@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnishMathewOommen](https://github.com/AnishMathewOommen)
 
-- 💬 Ask me about **Android Development,Robotics,Python and Java Programming**
+- 💬 Ask me about **Robotics, Python, and Java Programming**
 
 - 📫 How to reach me **mathewanish2002@gmail.com**
 
-- ⚡ Hobbies **Playing Piano,Accompanying Church Choir,Singing,Playing Indoor and Outdoor Games.**
+- ⚡ Hobbies **Playing Piano, Accompanying Church Choir, Singing,Playing Indoor and Outdoor Games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
